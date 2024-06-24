@@ -1,1 +1,2 @@
-#Image Compression and Reconstruction Using Huffman Encoding
+# Image Compression and Reconstruction Using Huffman Encoding
+Description
